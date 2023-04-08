@@ -3,7 +3,7 @@
 ## 👀 About me
 I am Md Sarfraz Alam, currently pursuing my bachelor's degree majoring in computer science with Data Scientist from Presidency University. I love writing code and problem solving.
 
-Check out my [portfolio](link/).
+Check out my [portfolio](https://mdsarfraz2002.github.io/under_construction/).
 
 <a href="https://discord.gg/6p4Yyvcs"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="discord"></a>
 <a href="mailto:mdsarfraz0202@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"></a>
