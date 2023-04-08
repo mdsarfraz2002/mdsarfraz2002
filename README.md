@@ -33,6 +33,28 @@ Check out my [portfolio](https://mdsarfraz2002.github.io/portfolio/).
 * [Data Science Club](https://www.linkedin.com/company/forge-dsc/) Lead for Presidency University
 
 ## 💬 Stats
-[![Sarfraz's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdsarfraz2002&count_private=true&show_icons=true&title_color=08ffc8&icon_color=08ffc8&text_color=9f9f9f&bg_color=151515)](https://github.com/anurag/github-readme-stats)
+![GitHub Streak](https://github-readme-stats.vercel.app/api?username=mdsarfraz2002&count_private=true&show_icons=true&theme=react)
+![GitHub Streak](https://streak-stats.demolab.com/?user=mdsarfraz2002&theme=react)
+![My activity](https://github-readme-activity-graph.cyclic.app/graph?username=mdsarfraz2002&theme=react-dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdsarfraz2002&layout=compact&langs_count=10&theme=react)
+![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mdsarfraz2002&theme=react)
+
+---
+
+### 🐍 Contribution snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/getlost01/getlost01/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/getlost01/getlost01/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/getlost01/getlost01/output/github-contribution-grid-snake.svg">
+</picture>
+
+
+---
+
+![Hitcount](https://komarev.com/ghpvc/?username=mdsarfraz2002&color=57bcd9)
+
+
 
 
