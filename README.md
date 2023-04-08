@@ -1,6 +1,6 @@
 ![image.gif](https://raw.githubusercontent.com/mdsarfraz2002/mdsarfraz2002/main/sarf.gif)
 
-## About me👦🏻
+## About me 👦🏻
 I am Md Sarfraz Alam, currently pursuing my bachelor's degree in computer science with specialization in Data Scientist from Presidency University.
 
 I Convert Raw Data Into Information & Information Into Insights & Insights Into A Beautiful Visualization
