@@ -14,14 +14,19 @@ Check out my [portfolio](https://mdsarfraz2002.github.io/portfolio/).
 
 ## ⚡ My Stack
 <p align="left"> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
+  <a href="https://www.python.org/"> <img src="https://skillicons.dev/icons?i=python" /> </a>
+   <a href="https://www.java.com/en//"> <img src="https://skillicons.dev/icons?i=java" /> </a>
+  <a href="https://devdocs.io/c/"> <img src="https://skillicons.dev/icons?i=c" /> </a>
+  <a href="https://cplusplus.com/"> <img src="https://skillicons.dev/icons?i=cpp" /> </a>
+  <a href="https://www.mysql.com/"> <img src="https://skillicons.dev/icons?i=mysql" /> </a>
+  <a href="https://www.w3.org/Style/CSS/Overview.en.html"> <img src="https://skillicons.dev/icons?i=css" /> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"> <img src="https://skillicons.dev/icons?i=html" /> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"> <img src="https://skillicons.dev/icons?i=js" /> </a>
+  <a href="https://cloud.google.com/document-ai"> <img src="https://skillicons.dev/icons?i=ai" /> </a>
+  <a href="https://www.php.net/"> <img src="https://skillicons.dev/icons?i=php" /> </a>
+  <a href="https://www.r-project.org/about.html"> <img src="https://skillicons.dev/icons?i=r" /> </a>
+  <a href="https://www.tensorflow.org/"> <img src="https://skillicons.dev/icons?i=tensorflow" /> </a>
+    <a href="crimeandpunishmentinindia.wordpress.com"> <img src="https://skillicons.dev/icons?i=wordpress" /> </a>
 </p>
 
 ## 👥 Communities
