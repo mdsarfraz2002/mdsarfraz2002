@@ -53,7 +53,7 @@ Check out my [portfolio](https://mdsarfraz2002.github.io/portfolio/).
 
 ---
 
-![Hitcount](https://komarev.com/ghpvc/?username=mdsarfraz2002&color=57bcd9)
+![Hitcount](https://komarev.com/ghpvc/?username=mdsarfraz2002&color=blue&style=for-the-badge)
 
 
 
