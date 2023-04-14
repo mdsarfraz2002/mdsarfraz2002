@@ -26,7 +26,7 @@ Check out my [portfolio](https://mdsarfraz2002.github.io/portfolio/).
   <a href="https://www.php.net/"> <img src="https://skillicons.dev/icons?i=php" /> </a>
   <a href="https://www.r-project.org/about.html"> <img src="https://skillicons.dev/icons?i=r" /> </a>
   <a href="https://www.tensorflow.org/"> <img src="https://skillicons.dev/icons?i=tensorflow" /> </a>
-    <a href="https://crimeandpunishmentinindia.wordpress.com/> <img src="https://skillicons.dev/icons?i=wordpress" /> </a>
+    <a href="https://crimeandpunishmentinindia.wordpress.com/"> <img src="https://skillicons.dev/icons?i=wordpress" /> </a>
 </p>
 
 ## 👥 Communities
