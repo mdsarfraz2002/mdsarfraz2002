@@ -5,7 +5,7 @@ I am Md Sarfraz Alam, currently pursuing my bachelor's degree in computer scienc
 
 I Convert Raw Data Into Information & Information Into Insights & Insights Into A Beautiful Visualization
 
-Check out my [portfolio](https://mdsarfraz2002.github.io/portfolio/).
+Check out my [portfolio](https://mdsarfraz.live/).
 
 <a href="https://discord.gg/6p4Yyvcs"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="discord"></a>
 <a href="mailto:mdsarfraz0202@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"></a>
