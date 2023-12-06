@@ -1,6 +1,6 @@
 ![image.gif](https://raw.githubusercontent.com/mdsarfraz2002/mdsarfraz2002/main/sarf.gif)
-
-## About me 👦🏻
+## ![Hitcount](https://komarev.com/ghpvc/?username=mdsarfraz2002&color=blue&style=for-the-badge)
+## About me 👦🏻 
 I am Md Sarfraz Alam, currently pursuing my bachelor's degree in computer science with specialization in Data Science from Presidency University.
 
 I Convert Raw Data Into Information & Information Into Insights & Insights Into A Beautiful Visualization
@@ -53,7 +53,7 @@ Check out my [portfolio](https://mdsarfraz.live/).
 
 ---
 
-![Hitcount](https://komarev.com/ghpvc/?username=mdsarfraz2002&color=blue&style=for-the-badge)
+
 
 
 
