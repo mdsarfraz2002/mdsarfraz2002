@@ -33,6 +33,8 @@ Check out my [portfolio](https://mdsarfraz.live/).
 * [Data Science Club](https://www.linkedin.com/company/forge-dsc/) Lead for Presidency University
 
 ## 💬 Stats
+![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mdsarfraz2002&theme=react)
+
 [![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/65e9e86b73b4b18a31e473de?variant=dark)](https://roadmap.sh)
 
 ![GitHub Streak](https://github-readme-stats.vercel.app/api?username=mdsarfraz2002&count_private=true&show_icons=true&theme=react)
@@ -40,7 +42,7 @@ Check out my [portfolio](https://mdsarfraz.live/).
 ![My activity](https://github-readme-activity-graph.cyclic.app/graph?username=mdsarfraz2002&theme=react-dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdsarfraz2002&layout=compact&langs_count=10&theme=react)
-![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mdsarfraz2002&theme=react)
+
 
 ---
 
