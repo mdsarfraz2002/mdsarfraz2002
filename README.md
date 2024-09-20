@@ -2,7 +2,9 @@
 ## ![Hitcount](https://komarev.com/ghpvc/?username=mdsarfraz2002&color=blue&style=for-the-badge)
 ## About me 👦🏻 
 I am Md Sarfraz Alam
+
 SDE - Applied AI
+
 Check out my [portfolio](https://mdsarfraz.live/).
 
 <a href="https://discord.gg/6p4Yyvcs"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="discord"></a>
