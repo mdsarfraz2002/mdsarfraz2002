@@ -33,29 +33,14 @@ Check out my [portfolio](https://mdsarfraz.live/).
 * [Data Science Club](https://www.linkedin.com/company/forge-dsc/) Lead for Presidency University
 
 ## 💬 Stats
-![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mdsarfraz2002&theme=react)
+# ![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mdsarfraz2002&theme=react)
 
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/65e9e86b73b4b18a31e473de?variant=dark)](https://roadmap.sh)
-
-![GitHub Streak](https://github-readme-stats.vercel.app/api?username=mdsarfraz2002&count_private=true&show_icons=true&theme=react)
-![GitHub Streak](https://streak-stats.demolab.com/?user=mdsarfraz2002&theme=react)
-![My activity](https://github-readme-activity-graph.cyclic.app/graph?username=mdsarfraz2002&theme=react-dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdsarfraz2002&layout=compact&langs_count=10&theme=react)
+# [![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/65e9e86b73b4b18a31e473de?variant=dark)](https://roadmap.sh)
+# ![GitHub Streak](https://streak-stats.demolab.com/?user=mdsarfraz2002&theme=react)
+# ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdsarfraz2002&layout=compact&langs_count=10&theme=react)
+# ![My activity](https://github-readme-activity-graph.vercel.app/graph?username=mdsarfraz2002&theme=react-dark)
 
 
----
-
-### 🐍 Contribution snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/getlost01/getlost01/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/getlost01/getlost01/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/getlost01/getlost01/output/github-contribution-grid-snake.svg">
-</picture>
-
-
----
 
 
 
