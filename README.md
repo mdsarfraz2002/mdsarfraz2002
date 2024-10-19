@@ -6,12 +6,12 @@ I am Md Sarfraz Alam
 SDE - Applied AI
 
 Check out my [portfolio](https://mdsarfraz.live/).
-
+#
 <a href="https://discord.gg/6p4Yyvcs"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="discord"></a>
 <a href="mailto:mdsarfraz0202@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"></a>
 <a href="https://www.linkedin.com/in/mdsarfraz2002/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"></a>
 <a href="https://twitter.com/mdsarfraz0202"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"></a>
-
+#
 ## ⚡ My Stack
 <p align="left"> 
   <a href="https://www.python.org/"> <img src="https://skillicons.dev/icons?i=python" /> </a>
@@ -26,12 +26,12 @@ Check out my [portfolio](https://mdsarfraz.live/).
   <a href="https://www.php.net/"> <img src="https://skillicons.dev/icons?i=php" /> </a>
   <a href="https://www.r-project.org/about.html"> <img src="https://skillicons.dev/icons?i=r" /> </a>
   <a href="https://www.tensorflow.org/"> <img src="https://skillicons.dev/icons?i=tensorflow" /> </a>
-    <a href="https://crimeandpunishmentinindia.wordpress.com/"> <img src="https://skillicons.dev/icons?i=wordpress" /> </a>
+  <a href="https://crimeandpunishmentinindia.wordpress.com/"> <img src="https://skillicons.dev/icons?i=wordpress" /> </a>
 </p>
 
 ## 👥 Communities
 * [Data Science Club](https://www.linkedin.com/company/forge-dsc/) Lead for Presidency University
-
+#
 ## 💬 Stats
 # ![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mdsarfraz2002&theme=react)
 
