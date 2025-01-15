@@ -5,7 +5,7 @@ I am Md Sarfraz Alam
 
 SDE - Applied AI
 
-Check out my [portfolio](https://mdsarfraz.tech/).
+Check out my [Portfolio](https://mdsarfraz.tech/).
 #
 <a href="https://discord.gg/6p4Yyvcs"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="discord"></a>
 <a href="mailto:mdsarfraz0202@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"></a>
